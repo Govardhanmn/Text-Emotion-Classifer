@@ -1,0 +1,17 @@
+{
+  "max_len": 100,
+  "vocab_size": 10000,
+  "num_classes": 6,
+  "classes": [
+    "anger",
+    "fear",
+    "joy",
+    "love",
+    "sadness",
+    "surprise"
+  ],
+  "ml_accuracy": 0.886,
+  "ml_f1": 0.8387,
+  "dl_accuracy": 0.8688,
+  "dl_f1": 0.8183
+}
